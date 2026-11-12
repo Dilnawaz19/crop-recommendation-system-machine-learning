@@ -32,6 +32,7 @@ The dataset (`crop_prediction.xlsx`) contains **2,200 records** across 8 key fea
 ## 📂 Repository Structure
 - `/data` — Contains the raw dataset (`crop_prediction.xlsx`).
 - `/notebook` — Contains the Jupyter Notebook (`Crop_Recommendation_System.ipynb`) detailing data cleaning, EDA, and model training.
+- `/materials` — Contains supplementary reference materials
 
 ---
 *Created as part of a professional data science portfolio.*
